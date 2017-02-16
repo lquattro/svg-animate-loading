@@ -10,7 +10,7 @@ You can retrieve :
 
 ### DEMO
 
-![loading-demo](loading.svg)
+![loading-demo](loading-screenshot.png)
 
 ## LICENSE
 
