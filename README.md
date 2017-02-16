@@ -4,9 +4,9 @@
 
 This repository contain a training example for svg animate used for a loading page.
 You can retrieve : 
-* Truck Loading
-* Bar Loading
-* Plane Loading
+* [Truck Loading](loading-truck.svg)
+* [Bar Loading](loading-bar.svg)
+* [Plane Loading](loading-plane.svg)
 
 ### SCREENSHOT
 
@@ -14,11 +14,15 @@ You can retrieve :
 
 ### DEMO
 
-[demo](loading.svg)
+[demo](loading-demo.svg)
+
+### INFO SOURCE CODE
+
+For a SVG source code in GitHub, you need to push button "<>" for display it.
 
 ### SOURCE
 
-For a SVG source in GitHub, you need to push button "<>" for display it.
+You can retrieve all svg source used in loading svg.
 
 ## LICENSE
 
