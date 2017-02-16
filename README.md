@@ -8,9 +8,17 @@ You can retrieve :
 * Bar Loading
 * Plane Loading
 
-### DEMO
+### SCREENSHOT
 
 ![loading-demo](loading-screenshot.png)
+
+### DEMO
+
+[demo](loading.svg)
+
+### SOURCE
+
+For a SVG source in GitHub, you need to push button "<>" for display it.
 
 ## LICENSE
 
